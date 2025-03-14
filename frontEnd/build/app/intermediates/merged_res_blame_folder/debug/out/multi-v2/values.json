@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.MeMyself.app-mergeDebugResources-5:/values/values.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Memyself_app\\RetroAI\\MeMyself_App\\frontEnd\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "9,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "797,978",
+                        "endLines": "12,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "973,1142"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\Memyself_app\\RetroAI\\MeMyself_App\\frontEnd\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,721",
+                        "endColumns": "143,81,103,108,119,106,75",
+                        "endOffsets": "194,276,380,489,609,716,792"
+                    }
+                }
+            ]
+        }
+    ]
+}

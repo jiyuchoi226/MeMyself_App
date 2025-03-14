@@ -1,0 +1,23 @@
+# Flutter/Dart 기본 캐시 및 빌드 파일
+.dart_tool/
+.flutter-plugins*
+.packages
+.pub/
+build/
+*.g.dart
+
+# IDE 설정
+.idea/
+.vscode/
+*.iml
+
+# iOS 빌드 파일
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Android 빌드 파일
+**/android/.gradle
+**/android/local.properties
+
+# 보안이 필요한 실제 API 키 파일
+lib/core/config/api_keys.dart

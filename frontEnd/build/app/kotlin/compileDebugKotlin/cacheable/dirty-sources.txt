@@ -1,0 +1,1 @@
+D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\kotlin\com\example\MeMyself\MainActivity.kt

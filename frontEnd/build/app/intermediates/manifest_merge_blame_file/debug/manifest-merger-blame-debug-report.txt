@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.MeMyself"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:3:5-66
+15-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:3:22-64
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:2:5-70
+16-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:2:22-68
+17    <uses-permission android:name="android.permission.READ_CALENDAR" />
+17-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:4:5-71
+17-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:4:22-69
+18    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+18-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:5:5-72
+18-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:5:22-70
+19    <!--
+20 Required to query activities that can process text, see:
+21         https://developer.android.com/training/package-visibility and
+22         https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
+23
+24         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
+25    -->
+26    <queries>
+26-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:46:5-51:15
+27        <intent>
+27-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:47:9-50:18
+28            <action android:name="android.intent.action.PROCESS_TEXT" />
+28-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:48:13-72
+28-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:48:21-70
+29
+30            <data android:mimeType="text/plain" />
+30-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:49:13-50
+30-->D:\Projects\Memyself_app\RetroAI\MeMyself_App\frontEnd\android\app\src\main\AndroidManifest.xml:49:19-48
+31        </intent>
+32    </queries>
+33
+34    <application
+35        android:name="com.example.MeMyself"
+36        android:debuggable="true"
+37        android:enableOnBackInvokedCallback="true"
+38        android:extractNativeLibs="true"
+39        android:icon="@mipmap/ic_launcher"
+40        android:label="MeMyself" >
+41        <activity
+42            android:name="com.example.MeMyself.MainActivity"
+43            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+44            android:exported="true"
+45            android:hardwareAccelerated="true"
+46            android:launchMode="singleTop"
+47            android:taskAffinity=""
+48            android:theme="@style/LaunchTheme"
+49            android:windowSoftInputMode="adjustResize" >
+50
+51            <!--
+52                 Specifies an Android theme to apply to this Activity as soon as
+53                 the Android process has started. This theme is visible to the user
+54                 while the Flutter UI initializes. After that, this theme continues
+55                 to determine the Window background behind the Flutter UI.
+56            -->
+57            <meta-data
+58                android:name="io.flutter.embedding.android.NormalTheme"
+59                android:resource="@style/NormalTheme" />
+60
+61            <intent-filter>
+62                <action android:name="android.intent.action.MAIN" />
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+65            </intent-filter>
+66        </activity>
+67        <!--
+68             Don't delete the meta-data below.
+69             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+70        -->
+71        <meta-data
+72            android:name="flutterEmbedding"
+73            android:value="2" />
+74    </application>
+75
+76</manifest>

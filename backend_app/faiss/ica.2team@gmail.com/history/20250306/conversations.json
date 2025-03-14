@@ -1,0 +1,431 @@
+{
+  "conversations": [
+    {
+      "bot_question": "어제의 독일 대사관 방문 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "독일은 서류 하나 받는데 대사관에 들러야 되고.. 왜 이렇게 많은걸 요구하는지 모르겠다. 돈과 시간이 너무 많이 소요된다.",
+      "timestamp": "2025-03-06T20:35:45.567169+09:00",
+      "event_info": {
+        "id": "75o1s56l28gcasck3pp2ii4qnn",
+        "status": "confirmed",
+        "created": "2025-03-05T16:15:52.000Z",
+        "updated": "2025-03-06T11:22:49.966Z",
+        "summary": "독일 대사관 방문",
+        "start": "2025-02-24T15:00:00+09:00",
+        "end": "2025-02-24T16:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "75o1s56l28gcasck3pp2ii4qnn",
+          "status": "confirmed",
+          "created": "2025-03-05T16:15:52.000Z",
+          "updated": "2025-03-06T11:22:49.966Z",
+          "summary": "독일 대사관 방문",
+          "start": "2025-02-24T15:00:00+09:00",
+          "end": "2025-02-24T16:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:35:45.567169+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 우체국 방문 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "독일은 왜 결혼 증빙 서류를 원본 서류로만 고집하는걸까.. 이해가 안 되네",
+      "timestamp": "2025-03-06T20:35:56.133847+09:00",
+      "event_info": {
+        "id": "50u98dp9p8trottblhnu070urj",
+        "status": "confirmed",
+        "created": "2025-03-05T16:16:07.000Z",
+        "updated": "2025-03-05T16:16:08.122Z",
+        "summary": "우체국 방문",
+        "start": "2025-02-24T16:00:00+09:00",
+        "end": "2025-02-24T17:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "50u98dp9p8trottblhnu070urj",
+          "status": "confirmed",
+          "created": "2025-03-05T16:16:07.000Z",
+          "updated": "2025-03-05T16:16:08.122Z",
+          "summary": "우체국 방문",
+          "start": "2025-02-24T16:00:00+09:00",
+          "end": "2025-02-24T17:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:35:56.133847+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 외국인 친구 모임 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "한국인을 만나게 되어 한국으로 결혼식을 하러 온 아디나, 레이첼 등 다같이 볼 수 있어서 너무 좋았어. 언제가 될지 모르겠지만 나중에 또 볼 수 있었으면 좋겠다.",
+      "timestamp": "2025-03-06T20:37:06.636170+09:00",
+      "event_info": {
+        "id": "2edssg5mk0b0v6tqingu8rmg51",
+        "status": "confirmed",
+        "created": "2025-03-06T11:25:18.000Z",
+        "updated": "2025-03-06T11:25:19.200Z",
+        "summary": "외국인 친구 모임",
+        "start": "2025-02-26T20:00:00+09:00",
+        "end": "2025-02-27T04:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "2edssg5mk0b0v6tqingu8rmg51",
+          "status": "confirmed",
+          "created": "2025-03-06T11:25:18.000Z",
+          "updated": "2025-03-06T11:25:19.200Z",
+          "summary": "외국인 친구 모임",
+          "start": "2025-02-26T20:00:00+09:00",
+          "end": "2025-02-27T04:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:37:06.636170+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 고객사 대표님 감사인사 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "좋은 솔루션을 만들어서 고맙다고 고객사 대표님께서 설에 과일까지 보내주셨다. 이커머스 솔루션 PM으로써 이런 선물과 피드백이 너무 감사하게 다가온다.",
+      "timestamp": "2025-03-06T20:38:32.563405+09:00",
+      "event_info": {
+        "id": "0kohgv4mpmjfrahcsesdt7ob4b",
+        "status": "confirmed",
+        "created": "2025-03-05T16:17:10.000Z",
+        "updated": "2025-03-05T16:17:10.419Z",
+        "summary": "고객사 대표님 감사인사",
+        "start": "2025-02-27T16:00:00+09:00",
+        "end": "2025-02-27T16:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "0kohgv4mpmjfrahcsesdt7ob4b",
+          "status": "confirmed",
+          "created": "2025-03-05T16:17:10.000Z",
+          "updated": "2025-03-05T16:17:10.419Z",
+          "summary": "고객사 대표님 감사인사",
+          "start": "2025-02-27T16:00:00+09:00",
+          "end": "2025-02-27T16:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:38:32.563405+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 혼인 신고 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "혼인 신고를 너무 급하게 하는 것 같아 고민이 많았으나, 막상 끝내니 후련하다. 아내도 복잡한 서류 절차가 힘들었겠지.. 아내에게 너무 고맙고 앞으로 한국에서 잘 정착하도록 도와주는걸 목표로 해야겠다.",
+      "timestamp": "2025-03-06T20:39:48.701162+09:00",
+      "event_info": {
+        "id": "7tofjqpo9h51p6770481k91vd9",
+        "status": "confirmed",
+        "created": "2025-03-05T16:17:31.000Z",
+        "updated": "2025-03-05T16:17:32.128Z",
+        "summary": "혼인 신고",
+        "start": "2025-02-28T11:00:00+09:00",
+        "end": "2025-02-28T12:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "7tofjqpo9h51p6770481k91vd9",
+          "status": "confirmed",
+          "created": "2025-03-05T16:17:31.000Z",
+          "updated": "2025-03-05T16:17:32.128Z",
+          "summary": "혼인 신고",
+          "start": "2025-02-28T11:00:00+09:00",
+          "end": "2025-02-28T12:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-06T20:39:48.701162+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 기숙사 친구 모임 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "원래는 별 계획이 없었는데 갑자기 룸메 친구들을 만나게 되어 더 좋았다. 얘네는 거리낌 없이 아무 얘기나 할 수 있는 사이라, 오랜만에 만남에도 언제나 즐겁다.",
+      "timestamp": "2025-03-06T20:42:05.051476+09:00",
+      "event_info": {
+        "id": "5kadilq78csgb2anen0cs4q6vs",
+        "status": "confirmed",
+        "created": "2025-03-05T16:18:07.000Z",
+        "updated": "2025-03-05T16:18:07.348Z",
+        "summary": "기숙사 친구 모임",
+        "start": "2025-03-02T20:00:00+09:00",
+        "end": "2025-03-02T23:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "5kadilq78csgb2anen0cs4q6vs",
+          "status": "confirmed",
+          "created": "2025-03-05T16:18:07.000Z",
+          "updated": "2025-03-05T16:18:07.348Z",
+          "summary": "기숙사 친구 모임",
+          "start": "2025-03-02T20:00:00+09:00",
+          "end": "2025-03-02T23:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:42:05.051476+09:00"
+      }
+    },
+    {
+      "bot_question": "삼일절 일정은 어떠셨나요?",
+      "user_answer": "",
+      "timestamp": "2025-03-06T20:42:50.056026+09:00",
+      "event_info": {
+        "id": "20250301_kpna1ffd5n0c6jibqo60v74pt4",
+        "status": "confirmed",
+        "created": "2024-05-22T19:34:25.000Z",
+        "updated": "2024-05-22T19:34:25.947Z",
+        "summary": "삼일절",
+        "description": "공휴일",
+        "start": "2025-03-01",
+        "end": "2025-03-02",
+        "calendar_info": {
+          "id": "ko.south_korea#holiday@group.v.calendar.google.com",
+          "summary": "대한민국의 휴일",
+          "description": "대한민국의 공휴일"
+        }
+      },
+      "emotion": {
+        "score": 0,
+        "text": "감정을 표현하지 않으셨습니다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "20250301_kpna1ffd5n0c6jibqo60v74pt4",
+          "status": "confirmed",
+          "created": "2024-05-22T19:34:25.000Z",
+          "updated": "2024-05-22T19:34:25.947Z",
+          "summary": "삼일절",
+          "description": "공휴일",
+          "start": "2025-03-01",
+          "end": "2025-03-02",
+          "calendar_info": {
+            "id": "ko.south_korea#holiday@group.v.calendar.google.com",
+            "summary": "대한민국의 휴일",
+            "description": "대한민국의 공휴일"
+          }
+        },
+        "emotion": {
+          "score": 0,
+          "text": "감정을 표현하지 않으셨습니다"
+        },
+        "timestamp": "2025-03-06T20:42:50.056026+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 아디나 결혼식 일정에 대해 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "오래 알던 영국 친구가 한국인 남편이랑 결혼하는거 보니 참 신기하다. 결혼식을 보니 마음이 울컥해진다. 아디나가 잘 살았으면 해.",
+      "timestamp": "2025-03-06T20:43:02.737295+09:00",
+      "event_info": {
+        "id": "5hidt0ol67eni0gf6skj0o0v3v",
+        "status": "confirmed",
+        "created": "2025-03-05T16:17:44.000Z",
+        "updated": "2025-03-05T16:17:44.398Z",
+        "summary": "아디나 결혼식",
+        "start": "2025-03-01T11:00:00+09:00",
+        "end": "2025-03-01T16:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team@gmail.com",
+          "summary": "ica.2team@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 4
+      },
+      "emotion": {
+        "score": 4,
+        "text": "만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team@gmail.com",
+        "event_info": {
+          "id": "5hidt0ol67eni0gf6skj0o0v3v",
+          "status": "confirmed",
+          "created": "2025-03-05T16:17:44.000Z",
+          "updated": "2025-03-05T16:17:44.398Z",
+          "summary": "아디나 결혼식",
+          "start": "2025-03-01T11:00:00+09:00",
+          "end": "2025-03-01T16:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team@gmail.com",
+            "summary": "ica.2team@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 4
+        },
+        "emotion": {
+          "score": 4,
+          "text": "만족스러웠다"
+        },
+        "timestamp": "2025-03-06T20:43:02.737295+09:00"
+      }
+    }
+  ],
+  "updated_at": "2025-03-06T20:43:02.737295+09:00"
+}

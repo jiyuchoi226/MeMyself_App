@@ -1,0 +1,11 @@
+com.example.MeMyself:style/LaunchTheme = 0x7f040000
+com.example.MeMyself:string/google_storage_bucket = 0x7f030005
+com.example.MeMyself:string/google_crash_reporting_api_key = 0x7f030004
+com.example.MeMyself:string/google_app_id = 0x7f030003
+com.example.MeMyself:style/NormalTheme = 0x7f040001
+com.example.MeMyself:string/project_id = 0x7f030006
+com.example.MeMyself:string/gcm_defaultSenderId = 0x7f030001
+com.example.MeMyself:string/google_api_key = 0x7f030002
+com.example.MeMyself:string/default_web_client_id = 0x7f030000
+com.example.MeMyself:mipmap/ic_launcher = 0x7f020000
+com.example.MeMyself:drawable/launch_background = 0x7f010000

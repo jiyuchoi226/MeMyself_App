@@ -1,0 +1,467 @@
+{
+  "conversations": [
+    {
+      "bot_question": "어제의 AI 스타트업 입사일 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "백엔드에서 ML 엔지니어로 전환한 첫날. 다소 낯설고 불안했지만.. 앞으로 내가 만들 수 있는 가능성과 기술적 도전이 많아 보여 기대된다. 빠르게 적응해서 나만의 역할을 찾고 싶다.",
+      "timestamp": "2025-03-06T05:33:52.242674+09:00",
+      "event_info": {
+        "id": "3g17csal96fdnghspmatimjn7o",
+        "status": "confirmed",
+        "created": "2025-03-05T16:00:31.000Z",
+        "updated": "2025-03-05T16:00:31.167Z",
+        "summary": "AI 스타트업 입사일",
+        "start": "2025-02-24",
+        "end": "2025-02-25",
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 420
+            }
+          ]
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "3g17csal96fdnghspmatimjn7o",
+          "status": "confirmed",
+          "created": "2025-03-05T16:00:31.000Z",
+          "updated": "2025-03-05T16:00:31.167Z",
+          "summary": "AI 스타트업 입사일",
+          "start": "2025-02-24",
+          "end": "2025-02-25",
+          "reminders": {
+            "useDefault": false,
+            "overrides": [
+              {
+                "method": "popup",
+                "minutes": 420
+              }
+            ]
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-06T05:33:52.242674+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 모닝 러닝 3km 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "아침 러닝으로 하루 시작하니 확실히 머리가 맑다. 개인 시간에 운동하는 것이 나를 더 효율적으로 만든다.",
+      "timestamp": "2025-03-06T05:35:10.319523+09:00",
+      "event_info": {
+        "id": "7beioirt4062d496iev6fplt12",
+        "status": "confirmed",
+        "created": "2025-03-05T15:20:56.000Z",
+        "updated": "2025-03-05T16:00:41.040Z",
+        "summary": "모닝 러닝 3km",
+        "start": "2025-02-26T06:30:00+09:00",
+        "end": "2025-02-26T07:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "7beioirt4062d496iev6fplt12",
+          "status": "confirmed",
+          "created": "2025-03-05T15:20:56.000Z",
+          "updated": "2025-03-05T16:00:41.040Z",
+          "summary": "모닝 러닝 3km",
+          "start": "2025-02-26T06:30:00+09:00",
+          "end": "2025-02-26T07:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T05:35:10.319523+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 개인 ML 프로젝트 일정에 대해 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "퇴근 후 개인 프로젝트에 집중할 때 진짜 나다운 느낌이다. 개인 프로젝트는 역시 재밌다",
+      "timestamp": "2025-03-06T05:35:31.379451+09:00",
+      "event_info": {
+        "id": "2lbpsdpuuol2dk1589gbeivnfv",
+        "status": "confirmed",
+        "created": "2025-03-03T13:01:33.000Z",
+        "updated": "2025-03-05T15:58:47.694Z",
+        "summary": "개인 ML 프로젝트",
+        "start": "2025-02-26T21:00:00+09:00",
+        "end": "2025-02-26T22:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 4
+      },
+      "emotion": {
+        "score": 4,
+        "text": "만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "2lbpsdpuuol2dk1589gbeivnfv",
+          "status": "confirmed",
+          "created": "2025-03-03T13:01:33.000Z",
+          "updated": "2025-03-05T15:58:47.694Z",
+          "summary": "개인 ML 프로젝트",
+          "start": "2025-02-26T21:00:00+09:00",
+          "end": "2025-02-26T22:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 4
+        },
+        "emotion": {
+          "score": 4,
+          "text": "만족스러웠다"
+        },
+        "timestamp": "2025-03-06T05:35:31.379451+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 개인 블로그 글쓰기 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "글을 쓰면서 생각이 정리된다. 꾸준히 하면 개인 브랜딩에도 도움될 듯",
+      "timestamp": "2025-03-06T05:37:18.571928+09:00",
+      "event_info": {
+        "id": "62asoo65m88e332lfnc6j06t92",
+        "status": "confirmed",
+        "created": "2025-03-03T12:56:11.000Z",
+        "updated": "2025-03-05T15:58:53.007Z",
+        "summary": "개인 블로그 글쓰기",
+        "start": "2025-02-27T21:00:00+09:00",
+        "end": "2025-02-27T22:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "62asoo65m88e332lfnc6j06t92",
+          "status": "confirmed",
+          "created": "2025-03-03T12:56:11.000Z",
+          "updated": "2025-03-05T15:58:53.007Z",
+          "summary": "개인 블로그 글쓰기",
+          "start": "2025-02-27T21:00:00+09:00",
+          "end": "2025-02-27T22:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T05:37:18.571928+09:00"
+      }
+    },
+    {
+      "bot_question": "삼일절 일정은 어떠셨나요?",
+      "user_answer": "",
+      "timestamp": "2025-03-06T05:41:36.847693+09:00",
+      "event_info": {
+        "id": "20250301_kpna1ffd5n0c6jibqo60v74pt4",
+        "status": "confirmed",
+        "created": "2024-05-22T19:34:25.000Z",
+        "updated": "2024-05-22T19:34:25.947Z",
+        "summary": "삼일절",
+        "description": "공휴일",
+        "start": "2025-03-01",
+        "end": "2025-03-02",
+        "calendar_info": {
+          "id": "ko.south_korea#holiday@group.v.calendar.google.com",
+          "summary": "대한민국의 휴일",
+          "description": "대한민국의 공휴일"
+        }
+      },
+      "emotion": {
+        "score": 0,
+        "text": "감정을 표현하지 않으셨습니다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "20250301_kpna1ffd5n0c6jibqo60v74pt4",
+          "status": "confirmed",
+          "created": "2024-05-22T19:34:25.000Z",
+          "updated": "2024-05-22T19:34:25.947Z",
+          "summary": "삼일절",
+          "description": "공휴일",
+          "start": "2025-03-01",
+          "end": "2025-03-02",
+          "calendar_info": {
+            "id": "ko.south_korea#holiday@group.v.calendar.google.com",
+            "summary": "대한민국의 휴일",
+            "description": "대한민국의 공휴일"
+          }
+        },
+        "emotion": {
+          "score": 0,
+          "text": "감정을 표현하지 않으셨습니다"
+        },
+        "timestamp": "2025-03-06T05:41:36.847693+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 한강 러닝 7km 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "긴 러닝을 끝낸 뒤 오는 성취감이 최고다. 나만의 시간을 확보하는 것이 중요하다",
+      "timestamp": "2025-03-06T05:41:52.404575+09:00",
+      "event_info": {
+        "id": "6h6j2qisquv7lkouko88c187np",
+        "status": "confirmed",
+        "created": "2025-03-05T15:23:47.000Z",
+        "updated": "2025-03-05T15:59:58.403Z",
+        "summary": "한강 러닝 7km",
+        "start": "2025-03-01T07:30:00+09:00",
+        "end": "2025-03-01T09:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "6h6j2qisquv7lkouko88c187np",
+          "status": "confirmed",
+          "created": "2025-03-05T15:23:47.000Z",
+          "updated": "2025-03-05T15:59:58.403Z",
+          "summary": "한강 러닝 7km",
+          "start": "2025-03-01T07:30:00+09:00",
+          "end": "2025-03-01T09:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T05:41:52.404575+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 제니랑 식사 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "퇴사 축하 겸 제니 만남. 마음 편하게 진솔한 이야기를 나눌 수 있는 친구가 있어서 감사하다. 그치만 이번주 일정이 너무 많아서 힘들었다. 나를 위한 휴식이 필요하다.",
+      "timestamp": "2025-03-06T05:42:05.744173+09:00",
+      "event_info": {
+        "id": "4on9h3d5al7bsn2ettf86a5di5",
+        "status": "confirmed",
+        "created": "2025-03-05T15:24:41.000Z",
+        "updated": "2025-03-05T16:00:03.513Z",
+        "summary": "제니랑 식사",
+        "start": "2025-03-01T12:30:00+09:00",
+        "end": "2025-03-01T16:30:00+09:00",
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            }
+          ]
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "4on9h3d5al7bsn2ettf86a5di5",
+          "status": "confirmed",
+          "created": "2025-03-05T15:24:41.000Z",
+          "updated": "2025-03-05T16:00:03.513Z",
+          "summary": "제니랑 식사",
+          "start": "2025-03-01T12:30:00+09:00",
+          "end": "2025-03-01T16:30:00+09:00",
+          "reminders": {
+            "useDefault": false,
+            "overrides": [
+              {
+                "method": "popup",
+                "minutes": 30
+              }
+            ]
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-06T05:42:05.744173+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 다음주 목표 설정 & 주간 회고 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "주간 계획을 점검하고 다음 목표를 명확히 하니 안정감을 느낀다. 개인적 회고 습관을 유지하자.",
+      "timestamp": "2025-03-06T05:43:02.535967+09:00",
+      "event_info": {
+        "id": "79ev25hfs3hes3ph5l36g77mu2",
+        "status": "confirmed",
+        "created": "2025-03-03T13:02:54.000Z",
+        "updated": "2025-03-05T16:00:16.911Z",
+        "summary": "다음주 목표 설정 & 주간 회고",
+        "start": "2025-03-02T20:30:00+09:00",
+        "end": "2025-03-02T21:30:00+09:00",
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "popup",
+              "minutes": 30
+            }
+          ]
+        },
+        "calendar_info": {
+          "id": "ica.2team.p2@gmail.com",
+          "summary": "기본",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team.p2@gmail.com",
+        "event_info": {
+          "id": "79ev25hfs3hes3ph5l36g77mu2",
+          "status": "confirmed",
+          "created": "2025-03-03T13:02:54.000Z",
+          "updated": "2025-03-05T16:00:16.911Z",
+          "summary": "다음주 목표 설정 & 주간 회고",
+          "start": "2025-03-02T20:30:00+09:00",
+          "end": "2025-03-02T21:30:00+09:00",
+          "reminders": {
+            "useDefault": false,
+            "overrides": [
+              {
+                "method": "popup",
+                "minutes": 30
+              }
+            ]
+          },
+          "calendar_info": {
+            "id": "ica.2team.p2@gmail.com",
+            "summary": "기본",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-06T05:43:02.535967+09:00"
+      }
+    }
+  ],
+  "updated_at": "2025-03-06T05:43:02.535967+09:00"
+}

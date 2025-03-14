@@ -1,0 +1,1677 @@
+{
+  "conversations": [
+    {
+      "bot_question": "어제의 헬스 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "너무 힘들었어. ",
+      "timestamp": "2025-03-03T02:38:28.354795+09:00",
+      "event_info": {
+        "id": "6ldia9o9kbonrseg95aj8s3unl_20250223T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:55:21.000Z",
+        "updated": "2025-02-19T14:55:22.132Z",
+        "summary": "헬스",
+        "start": "2025-02-24T07:00:00+09:00",
+        "end": "2025-02-24T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6ldia9o9kbonrseg95aj8s3unl_20250223T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:55:21.000Z",
+          "updated": "2025-02-19T14:55:22.132Z",
+          "summary": "헬스",
+          "start": "2025-02-24T07:00:00+09:00",
+          "end": "2025-02-24T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:38:28.354795+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 걷기 운동 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "날씨가 별로였어",
+      "timestamp": "2025-03-03T02:40:17.627087+09:00",
+      "event_info": {
+        "id": "07cve7phbbi345dda3osal46pp_20250223T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:35:42.000Z",
+        "updated": "2025-02-08T08:49:50.880Z",
+        "summary": "걷기 운동",
+        "start": "2025-02-24T07:00:00+09:00",
+        "end": "2025-02-24T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+          "summary": "운동",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "07cve7phbbi345dda3osal46pp_20250223T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:35:42.000Z",
+          "updated": "2025-02-08T08:49:50.880Z",
+          "summary": "걷기 운동",
+          "start": "2025-02-24T07:00:00+09:00",
+          "end": "2025-02-24T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+            "summary": "운동",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:40:17.627087+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브, 클래스, 이메일, 쇼핑몰 확인 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "너무 할일이 많아",
+      "timestamp": "2025-03-03T02:40:25.556216+09:00",
+      "event_info": {
+        "id": "6n7hed0ns8gkl561tbu1nibei0_20250224T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:39:05.000Z",
+        "updated": "2025-02-08T08:40:51.218Z",
+        "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+        "start": "2025-02-24T09:00:00+09:00",
+        "end": "2025-02-24T10:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+          "summary": "작업",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6n7hed0ns8gkl561tbu1nibei0_20250224T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:39:05.000Z",
+          "updated": "2025-02-08T08:40:51.218Z",
+          "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+          "start": "2025-02-24T09:00:00+09:00",
+          "end": "2025-02-24T10:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+            "summary": "작업",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:40:25.556216+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 가구 및 가전 쇼핑 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "너무 가격이 비쌌어",
+      "timestamp": "2025-03-03T02:40:32.517946+09:00",
+      "event_info": {
+        "id": "puhih1huua33uju9uksh676ghk",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:37.000Z",
+        "updated": "2025-02-19T14:37:37.805Z",
+        "summary": "가구 및 가전 쇼핑",
+        "start": "2025-02-24T12:00:00+09:00",
+        "end": "2025-02-24T16:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "puhih1huua33uju9uksh676ghk",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:37.000Z",
+          "updated": "2025-02-19T14:37:37.805Z",
+          "summary": "가구 및 가전 쇼핑",
+          "start": "2025-02-24T12:00:00+09:00",
+          "end": "2025-02-24T16:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:40:32.517946+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 걷기 운동 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "날씨도 좋고 아내랑 함께 뛰어서 너무 좋았어",
+      "timestamp": "2025-03-03T02:45:03.542504+09:00",
+      "event_info": {
+        "id": "07cve7phbbi345dda3osal46pp_20250224T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:35:42.000Z",
+        "updated": "2025-02-08T08:49:50.880Z",
+        "summary": "걷기 운동",
+        "start": "2025-02-25T07:00:00+09:00",
+        "end": "2025-02-25T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+          "summary": "운동",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "07cve7phbbi345dda3osal46pp_20250224T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:35:42.000Z",
+          "updated": "2025-02-08T08:49:50.880Z",
+          "summary": "걷기 운동",
+          "start": "2025-02-25T07:00:00+09:00",
+          "end": "2025-02-25T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+            "summary": "운동",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:45:03.542504+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브, 클래스, 이메일, 쇼핑몰 확인 일정에 대해 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "너무 힘들었어. 특히, 유튜브 아이디어가 안나와",
+      "timestamp": "2025-03-03T02:45:16.702529+09:00",
+      "event_info": {
+        "id": "6n7hed0ns8gkl561tbu1nibei0_20250225T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:39:05.000Z",
+        "updated": "2025-02-08T08:40:51.218Z",
+        "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+        "start": "2025-02-25T09:00:00+09:00",
+        "end": "2025-02-25T10:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+          "summary": "작업",
+          "description": ""
+        },
+        "emotion_score": 2
+      },
+      "emotion": {
+        "score": 2,
+        "text": "불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6n7hed0ns8gkl561tbu1nibei0_20250225T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:39:05.000Z",
+          "updated": "2025-02-08T08:40:51.218Z",
+          "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+          "start": "2025-02-25T09:00:00+09:00",
+          "end": "2025-02-25T10:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+            "summary": "작업",
+            "description": ""
+          },
+          "emotion_score": 2
+        },
+        "emotion": {
+          "score": 2,
+          "text": "불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:45:16.702529+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 스크립트 작성 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "아이디어가 안나와",
+      "timestamp": "2025-03-03T02:45:28.949237+09:00",
+      "event_info": {
+        "id": "0jpfk1687rhfo4nr0vgj6jdqsl_20250225T010000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:53:01.000Z",
+        "updated": "2025-02-19T14:53:01.437Z",
+        "summary": "유튜브 스크립트 작성",
+        "start": "2025-02-25T10:00:00+09:00",
+        "end": "2025-02-25T12:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "0jpfk1687rhfo4nr0vgj6jdqsl_20250225T010000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:53:01.000Z",
+          "updated": "2025-02-19T14:53:01.437Z",
+          "summary": "유튜브 스크립트 작성",
+          "start": "2025-02-25T10:00:00+09:00",
+          "end": "2025-02-25T12:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:45:28.949237+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 결혼 후 첫 영상 기획 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "놀고만 싶어. 일하고 싶지않아",
+      "timestamp": "2025-03-03T02:45:59.230289+09:00",
+      "event_info": {
+        "id": "eeghini0tn29k80uuu2clqk984",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:37.000Z",
+        "updated": "2025-02-19T14:37:37.964Z",
+        "summary": "결혼 후 첫 영상 기획",
+        "start": "2025-02-25T10:00:00+09:00",
+        "end": "2025-02-25T12:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "eeghini0tn29k80uuu2clqk984",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:37.000Z",
+          "updated": "2025-02-19T14:37:37.964Z",
+          "summary": "결혼 후 첫 영상 기획",
+          "start": "2025-02-25T10:00:00+09:00",
+          "end": "2025-02-25T12:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:45:59.230289+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 영상 편집 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "하나도 안풀렸어.",
+      "timestamp": "2025-03-03T02:46:06.586510+09:00",
+      "event_info": {
+        "id": "3ejl4cmlh8j5dj8851a91t1h0v_20250225T040000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:54:00.000Z",
+        "updated": "2025-02-19T14:54:00.678Z",
+        "summary": "영상 편집",
+        "start": "2025-02-25T13:00:00+09:00",
+        "end": "2025-02-25T17:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "3ejl4cmlh8j5dj8851a91t1h0v_20250225T040000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:54:00.000Z",
+          "updated": "2025-02-19T14:54:00.678Z",
+          "summary": "영상 편집",
+          "start": "2025-02-25T13:00:00+09:00",
+          "end": "2025-02-25T17:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:46:06.586510+09:00"
+      }
+    },
+    {
+      "bot_question": "헬스 일정은 어떠셨나요?",
+      "user_answer": "좋았어. 개운했어",
+      "timestamp": "2025-03-03T02:47:44.563948+09:00",
+      "event_info": {
+        "id": "6ldia9o9kbonrseg95aj8s3unl_20250325T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:55:21.000Z",
+        "updated": "2025-02-19T14:55:22.132Z",
+        "summary": "헬스",
+        "start": "2025-03-26T07:00:00+09:00",
+        "end": "2025-03-26T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        }
+      },
+      "emotion": {
+        "score": 0,
+        "text": "감정을 표현하지 않으셨습니다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6ldia9o9kbonrseg95aj8s3unl_20250325T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:55:21.000Z",
+          "updated": "2025-02-19T14:55:22.132Z",
+          "summary": "헬스",
+          "start": "2025-03-26T07:00:00+09:00",
+          "end": "2025-03-26T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          }
+        },
+        "emotion": {
+          "score": 0,
+          "text": "감정을 표현하지 않으셨습니다"
+        },
+        "timestamp": "2025-03-03T02:47:44.563948+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 헬스 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "개운했어. 300쳤어",
+      "timestamp": "2025-03-03T02:49:59.843571+09:00",
+      "event_info": {
+        "id": "6ldia9o9kbonrseg95aj8s3unl_20250225T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:55:21.000Z",
+        "updated": "2025-02-19T14:55:22.132Z",
+        "summary": "헬스",
+        "start": "2025-02-26T07:00:00+09:00",
+        "end": "2025-02-26T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6ldia9o9kbonrseg95aj8s3unl_20250225T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:55:21.000Z",
+          "updated": "2025-02-19T14:55:22.132Z",
+          "summary": "헬스",
+          "start": "2025-02-26T07:00:00+09:00",
+          "end": "2025-02-26T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:49:59.843571+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 걷기 운동 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "날씨좋았어. 몸이 가벼웠어",
+      "timestamp": "2025-03-03T02:50:14.621218+09:00",
+      "event_info": {
+        "id": "07cve7phbbi345dda3osal46pp_20250225T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:35:42.000Z",
+        "updated": "2025-02-08T08:49:50.880Z",
+        "summary": "걷기 운동",
+        "start": "2025-02-26T07:00:00+09:00",
+        "end": "2025-02-26T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+          "summary": "운동",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "07cve7phbbi345dda3osal46pp_20250225T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:35:42.000Z",
+          "updated": "2025-02-08T08:49:50.880Z",
+          "summary": "걷기 운동",
+          "start": "2025-02-26T07:00:00+09:00",
+          "end": "2025-02-26T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+            "summary": "운동",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:50:14.621218+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 & 이메일 확인 일정에 대해 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "구독자가 늘었어. 야호",
+      "timestamp": "2025-03-03T02:50:27.198230+09:00",
+      "event_info": {
+        "id": "4779m4p31t3dfi24fkk9opf61s",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:38.000Z",
+        "updated": "2025-02-19T14:37:38.153Z",
+        "summary": "유튜브 & 이메일 확인",
+        "start": "2025-02-26T08:00:00+09:00",
+        "end": "2025-02-26T09:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 4
+      },
+      "emotion": {
+        "score": 4,
+        "text": "만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "4779m4p31t3dfi24fkk9opf61s",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:38.000Z",
+          "updated": "2025-02-19T14:37:38.153Z",
+          "summary": "유튜브 & 이메일 확인",
+          "start": "2025-02-26T08:00:00+09:00",
+          "end": "2025-02-26T09:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 4
+        },
+        "emotion": {
+          "score": 4,
+          "text": "만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:50:27.198230+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브, 클래스, 이메일, 쇼핑몰 확인 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "그냥 쏘쏘",
+      "timestamp": "2025-03-03T02:50:33.388149+09:00",
+      "event_info": {
+        "id": "6n7hed0ns8gkl561tbu1nibei0_20250226T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:39:05.000Z",
+        "updated": "2025-02-08T08:40:51.218Z",
+        "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+        "start": "2025-02-26T09:00:00+09:00",
+        "end": "2025-02-26T10:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+          "summary": "작업",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6n7hed0ns8gkl561tbu1nibei0_20250226T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:39:05.000Z",
+          "updated": "2025-02-08T08:40:51.218Z",
+          "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+          "start": "2025-02-26T09:00:00+09:00",
+          "end": "2025-02-26T10:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+            "summary": "작업",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:50:33.388149+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 썸네일 제작 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "별로",
+      "timestamp": "2025-03-03T02:50:38.515521+09:00",
+      "event_info": {
+        "id": "4378h3s37rg7acvqhc3kugb3jk_20250226T070000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:54:42.000Z",
+        "updated": "2025-02-19T14:54:42.500Z",
+        "summary": "썸네일 제작",
+        "start": "2025-02-26T16:00:00+09:00",
+        "end": "2025-02-26T18:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "4378h3s37rg7acvqhc3kugb3jk_20250226T070000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:54:42.000Z",
+          "updated": "2025-02-19T14:54:42.500Z",
+          "summary": "썸네일 제작",
+          "start": "2025-02-26T16:00:00+09:00",
+          "end": "2025-02-26T18:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:50:38.515521+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 걷기 운동 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "넘어져서 다쳤어",
+      "timestamp": "2025-03-03T02:51:42.915380+09:00",
+      "event_info": {
+        "id": "07cve7phbbi345dda3osal46pp_20250226T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:35:42.000Z",
+        "updated": "2025-02-08T08:49:50.880Z",
+        "summary": "걷기 운동",
+        "start": "2025-02-27T07:00:00+09:00",
+        "end": "2025-02-27T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+          "summary": "운동",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "07cve7phbbi345dda3osal46pp_20250226T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:35:42.000Z",
+          "updated": "2025-02-08T08:49:50.880Z",
+          "summary": "걷기 운동",
+          "start": "2025-02-27T07:00:00+09:00",
+          "end": "2025-02-27T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+            "summary": "운동",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:51:42.915380+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브, 클래스, 이메일, 쇼핑몰 확인 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "보통",
+      "timestamp": "2025-03-03T02:51:50.891846+09:00",
+      "event_info": {
+        "id": "6n7hed0ns8gkl561tbu1nibei0_20250227T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:39:05.000Z",
+        "updated": "2025-02-08T08:40:51.218Z",
+        "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+        "start": "2025-02-27T09:00:00+09:00",
+        "end": "2025-02-27T10:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+          "summary": "작업",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6n7hed0ns8gkl561tbu1nibei0_20250227T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:39:05.000Z",
+          "updated": "2025-02-08T08:40:51.218Z",
+          "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+          "start": "2025-02-27T09:00:00+09:00",
+          "end": "2025-02-27T10:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+            "summary": "작업",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:51:50.891846+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 스크립트 작성 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "몰라",
+      "timestamp": "2025-03-03T02:51:54.499073+09:00",
+      "event_info": {
+        "id": "0jpfk1687rhfo4nr0vgj6jdqsl_20250227T010000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:53:01.000Z",
+        "updated": "2025-02-19T14:53:01.437Z",
+        "summary": "유튜브 스크립트 작성",
+        "start": "2025-02-27T10:00:00+09:00",
+        "end": "2025-02-27T12:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "0jpfk1687rhfo4nr0vgj6jdqsl_20250227T010000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:53:01.000Z",
+          "updated": "2025-02-19T14:53:01.437Z",
+          "summary": "유튜브 스크립트 작성",
+          "start": "2025-02-27T10:00:00+09:00",
+          "end": "2025-02-27T12:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:51:54.499073+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 영상 편집 (일상 Vlog) 일정에 대해 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "갠춘",
+      "timestamp": "2025-03-03T02:51:59.331694+09:00",
+      "event_info": {
+        "id": "ut4arhf1p8g2eluh3ptfpqvu70",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:38.000Z",
+        "updated": "2025-02-19T14:37:38.378Z",
+        "summary": "영상 편집 (일상 Vlog)",
+        "start": "2025-02-27T12:00:00+09:00",
+        "end": "2025-02-27T16:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 4
+      },
+      "emotion": {
+        "score": 4,
+        "text": "만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "ut4arhf1p8g2eluh3ptfpqvu70",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:38.000Z",
+          "updated": "2025-02-19T14:37:38.378Z",
+          "summary": "영상 편집 (일상 Vlog)",
+          "start": "2025-02-27T12:00:00+09:00",
+          "end": "2025-02-27T16:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 4
+        },
+        "emotion": {
+          "score": 4,
+          "text": "만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:51:59.331694+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 헬스 일정에 대해 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "넘 지겨워",
+      "timestamp": "2025-03-03T02:53:46.075920+09:00",
+      "event_info": {
+        "id": "6ldia9o9kbonrseg95aj8s3unl_20250227T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:55:21.000Z",
+        "updated": "2025-02-19T14:55:22.132Z",
+        "summary": "헬스",
+        "start": "2025-02-28T07:00:00+09:00",
+        "end": "2025-02-28T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 2
+      },
+      "emotion": {
+        "score": 2,
+        "text": "불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6ldia9o9kbonrseg95aj8s3unl_20250227T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:55:21.000Z",
+          "updated": "2025-02-19T14:55:22.132Z",
+          "summary": "헬스",
+          "start": "2025-02-28T07:00:00+09:00",
+          "end": "2025-02-28T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 2
+        },
+        "emotion": {
+          "score": 2,
+          "text": "불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:53:46.075920+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 걷기 운동 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "그냥그랬어. 운동이 안되는 거 같기도 하고",
+      "timestamp": "2025-03-03T02:54:04.795639+09:00",
+      "event_info": {
+        "id": "07cve7phbbi345dda3osal46pp_20250227T220000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:35:42.000Z",
+        "updated": "2025-02-08T08:49:50.880Z",
+        "summary": "걷기 운동",
+        "start": "2025-02-28T07:00:00+09:00",
+        "end": "2025-02-28T08:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+          "summary": "운동",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "07cve7phbbi345dda3osal46pp_20250227T220000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:35:42.000Z",
+          "updated": "2025-02-08T08:49:50.880Z",
+          "summary": "걷기 운동",
+          "start": "2025-02-28T07:00:00+09:00",
+          "end": "2025-02-28T08:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "6ad1cd50793af8041f10343533af2e6f00fa5f2553b01e70afe860dd76660eba@group.calendar.google.com",
+            "summary": "운동",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:54:04.795639+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 & 이메일 확인 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "나름 괜찮았어. 이메일에 내 유튜브보고 광고 연락이 왓어",
+      "timestamp": "2025-03-03T02:54:26.213044+09:00",
+      "event_info": {
+        "id": "4hq76vrrsb8h90niohgs8nou5m_20250228T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:51:54.000Z",
+        "updated": "2025-02-19T14:51:55.130Z",
+        "summary": "유튜브 & 이메일 확인",
+        "start": "2025-02-28T09:00:00+09:00",
+        "end": "2025-02-28T09:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "4hq76vrrsb8h90niohgs8nou5m_20250228T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:51:54.000Z",
+          "updated": "2025-02-19T14:51:55.130Z",
+          "summary": "유튜브 & 이메일 확인",
+          "start": "2025-02-28T09:00:00+09:00",
+          "end": "2025-02-28T09:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:54:26.213044+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브, 클래스, 이메일, 쇼핑몰 확인 일정에 대해 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "그냥 만족",
+      "timestamp": "2025-03-03T02:54:35.723495+09:00",
+      "event_info": {
+        "id": "6n7hed0ns8gkl561tbu1nibei0_20250228T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-08T08:39:05.000Z",
+        "updated": "2025-02-08T08:40:51.218Z",
+        "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+        "start": "2025-02-28T09:00:00+09:00",
+        "end": "2025-02-28T10:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+          "summary": "작업",
+          "description": ""
+        },
+        "emotion_score": 4
+      },
+      "emotion": {
+        "score": 4,
+        "text": "만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "6n7hed0ns8gkl561tbu1nibei0_20250228T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-08T08:39:05.000Z",
+          "updated": "2025-02-08T08:40:51.218Z",
+          "summary": "유튜브, 클래스, 이메일, 쇼핑몰 확인",
+          "start": "2025-02-28T09:00:00+09:00",
+          "end": "2025-02-28T10:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "7ee9db35a7d325674c5329748731eefd62102962a1e236b697ba258ef49caa64@group.calendar.google.com",
+            "summary": "작업",
+            "description": ""
+          },
+          "emotion_score": 4
+        },
+        "emotion": {
+          "score": 4,
+          "text": "만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:54:35.723495+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 업로드 & 채널 관리 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "보통",
+      "timestamp": "2025-03-03T02:54:45.852141+09:00",
+      "event_info": {
+        "id": "prhorhl7mg9ok7njr43tv0078k",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:38.000Z",
+        "updated": "2025-02-19T14:37:38.641Z",
+        "summary": "유튜브 업로드 & 채널 관리",
+        "start": "2025-02-28T11:00:00+09:00",
+        "end": "2025-02-28T15:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "prhorhl7mg9ok7njr43tv0078k",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:38.000Z",
+          "updated": "2025-02-19T14:37:38.641Z",
+          "summary": "유튜브 업로드 & 채널 관리",
+          "start": "2025-02-28T11:00:00+09:00",
+          "end": "2025-02-28T15:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:54:45.852141+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 영상 편집 일정에 대해 매우 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "편집이 맘대로 안돼",
+      "timestamp": "2025-03-03T02:54:58.004986+09:00",
+      "event_info": {
+        "id": "3ejl4cmlh8j5dj8851a91t1h0v_20250228T040000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:54:00.000Z",
+        "updated": "2025-02-19T14:54:00.678Z",
+        "summary": "영상 편집",
+        "start": "2025-02-28T13:00:00+09:00",
+        "end": "2025-02-28T17:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 1
+      },
+      "emotion": {
+        "score": 1,
+        "text": "매우 불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "3ejl4cmlh8j5dj8851a91t1h0v_20250228T040000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:54:00.000Z",
+          "updated": "2025-02-19T14:54:00.678Z",
+          "summary": "영상 편집",
+          "start": "2025-02-28T13:00:00+09:00",
+          "end": "2025-02-28T17:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 1
+        },
+        "emotion": {
+          "score": 1,
+          "text": "매우 불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:54:58.004986+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 가족 식사 @부모님 댁 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "부모님 오랜만에 뵈서 정말 기분좋았어. 소고기도 맛있었고 아주 만족",
+      "timestamp": "2025-03-03T02:56:20.581284+09:00",
+      "event_info": {
+        "id": "ajo5pb3gc1c9hgal1kn8fma5vk",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:38.000Z",
+        "updated": "2025-02-19T14:37:38.848Z",
+        "summary": "가족 식사 @부모님 댁",
+        "start": "2025-03-01T11:00:00+09:00",
+        "end": "2025-03-01T13:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "ajo5pb3gc1c9hgal1kn8fma5vk",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:38.000Z",
+          "updated": "2025-02-19T14:37:38.848Z",
+          "summary": "가족 식사 @부모님 댁",
+          "start": "2025-03-01T11:00:00+09:00",
+          "end": "2025-03-01T13:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:56:20.581284+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 신혼집 물색 일정에 대해 불만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "너무 비싸네....",
+      "timestamp": "2025-03-03T02:56:30.722891+09:00",
+      "event_info": {
+        "id": "1a8trjhlbe8ta7bd5s9n5d5e9t_20250301T050000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:56:43.000Z",
+        "updated": "2025-02-19T14:57:01.043Z",
+        "summary": "신혼집 물색",
+        "start": "2025-03-01T14:00:00+09:00",
+        "end": "2025-03-01T15:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 2
+      },
+      "emotion": {
+        "score": 2,
+        "text": "불만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "1a8trjhlbe8ta7bd5s9n5d5e9t_20250301T050000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:56:43.000Z",
+          "updated": "2025-02-19T14:57:01.043Z",
+          "summary": "신혼집 물색",
+          "start": "2025-03-01T14:00:00+09:00",
+          "end": "2025-03-01T15:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 2
+        },
+        "emotion": {
+          "score": 2,
+          "text": "불만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:56:30.722891+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 유튜브 & 이메일 확인 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "유튜브 해야하는 데.... 하긴했는데 진도가 안나감",
+      "timestamp": "2025-03-03T02:58:21.470172+09:00",
+      "event_info": {
+        "id": "4hq76vrrsb8h90niohgs8nou5m_20250302T000000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:51:54.000Z",
+        "updated": "2025-02-19T14:51:55.130Z",
+        "summary": "유튜브 & 이메일 확인",
+        "start": "2025-03-02T09:00:00+09:00",
+        "end": "2025-03-02T09:30:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "4hq76vrrsb8h90niohgs8nou5m_20250302T000000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:51:54.000Z",
+          "updated": "2025-02-19T14:51:55.130Z",
+          "summary": "유튜브 & 이메일 확인",
+          "start": "2025-03-02T09:00:00+09:00",
+          "end": "2025-03-02T09:30:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:58:21.470172+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 결혼 생활 정리 & 계획 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "앞으로 신혼 생활이 너무 기대돼",
+      "timestamp": "2025-03-03T02:58:32.758629+09:00",
+      "event_info": {
+        "id": "ren7u1hhprusupvb98gnnn380s",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:38.000Z",
+        "updated": "2025-02-19T14:37:39.082Z",
+        "summary": "결혼 생활 정리 & 계획",
+        "start": "2025-03-02T09:00:00+09:00",
+        "end": "2025-03-02T11:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "ren7u1hhprusupvb98gnnn380s",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:38.000Z",
+          "updated": "2025-02-19T14:37:39.082Z",
+          "summary": "결혼 생활 정리 & 계획",
+          "start": "2025-03-02T09:00:00+09:00",
+          "end": "2025-03-02T11:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:58:32.758629+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 신혼여행 사진 정리 일정에 대해 매우 만족스러웠다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "신혼 여행 정말 좋았어",
+      "timestamp": "2025-03-03T02:58:41.292061+09:00",
+      "event_info": {
+        "id": "e79a8djf4lq1uqpacgoi1r2ti4",
+        "status": "confirmed",
+        "created": "2025-02-19T14:37:39.000Z",
+        "updated": "2025-02-19T14:37:39.306Z",
+        "summary": "신혼여행 사진 정리",
+        "start": "2025-03-02T14:00:00+09:00",
+        "end": "2025-03-02T16:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 5
+      },
+      "emotion": {
+        "score": 5,
+        "text": "매우 만족스러웠다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "e79a8djf4lq1uqpacgoi1r2ti4",
+          "status": "confirmed",
+          "created": "2025-02-19T14:37:39.000Z",
+          "updated": "2025-02-19T14:37:39.306Z",
+          "summary": "신혼여행 사진 정리",
+          "start": "2025-03-02T14:00:00+09:00",
+          "end": "2025-03-02T16:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 5
+        },
+        "emotion": {
+          "score": 5,
+          "text": "매우 만족스러웠다"
+        },
+        "timestamp": "2025-03-03T02:58:41.292061+09:00"
+      }
+    },
+    {
+      "bot_question": "어제의 썸네일 제작 일정에 대해 보통이었다고 하셨는데, 왜 그렇게 생각하셨나요?",
+      "user_answer": "썸네일이 쉽지는 않네",
+      "timestamp": "2025-03-03T02:58:50.412712+09:00",
+      "event_info": {
+        "id": "4378h3s37rg7acvqhc3kugb3jk_20250302T070000Z",
+        "status": "confirmed",
+        "created": "2025-02-19T14:54:42.000Z",
+        "updated": "2025-02-19T14:54:42.500Z",
+        "summary": "썸네일 제작",
+        "start": "2025-03-02T16:00:00+09:00",
+        "end": "2025-03-02T18:00:00+09:00",
+        "reminders": {
+          "useDefault": true
+        },
+        "calendar_info": {
+          "id": "ica.2team02@gmail.com",
+          "summary": "ica.2team02@gmail.com",
+          "description": ""
+        },
+        "emotion_score": 3
+      },
+      "emotion": {
+        "score": 3,
+        "text": "보통이었다"
+      },
+      "metadata": {
+        "type": "conversation",
+        "user_id": "ica.2team02@gmail.com",
+        "event_info": {
+          "id": "4378h3s37rg7acvqhc3kugb3jk_20250302T070000Z",
+          "status": "confirmed",
+          "created": "2025-02-19T14:54:42.000Z",
+          "updated": "2025-02-19T14:54:42.500Z",
+          "summary": "썸네일 제작",
+          "start": "2025-03-02T16:00:00+09:00",
+          "end": "2025-03-02T18:00:00+09:00",
+          "reminders": {
+            "useDefault": true
+          },
+          "calendar_info": {
+            "id": "ica.2team02@gmail.com",
+            "summary": "ica.2team02@gmail.com",
+            "description": ""
+          },
+          "emotion_score": 3
+        },
+        "emotion": {
+          "score": 3,
+          "text": "보통이었다"
+        },
+        "timestamp": "2025-03-03T02:58:50.412712+09:00"
+      }
+    }
+  ],
+  "updated_at": "2025-03-03T02:58:50.412712+09:00"
+}
